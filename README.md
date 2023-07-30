@@ -10,7 +10,7 @@ https://github.com/lighthouse-labs/snek-multiplayer.git
 
 ## Final Product
 
-These methods will help you communicate with the server that contains the game and be able to send instructions through the letters of the ADWS keyboard. To terminate the communication between the client and the server please press CTRL + C.
+These methods will help you communicate with the server that contains the game and be able to send instructions through the letters of the WASD keyboard. To terminate the communication between the client and the server please press CTRL + C. Additionally, you could press the letter "z" to have a funny comment.
 
 
 ## Getting Started
